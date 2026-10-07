@@ -1,6 +1,6 @@
 # End-to-End Fraud Detection System
 
-Jupyter notebook pipeline for credit card fraud detection on the [ULB MLG credit card fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (European transactions, September 2013).
+Jupyter notebook pipeline for credit card fraud detection on the [ULB MLG credit card fraud dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) (European transactions, September 2013). Simple practice to keep CS skills alive.
 
 ## Contents
 
